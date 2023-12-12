@@ -1,1 +1,1 @@
-# calc_app
+This code creates a simple calculator interface using Tkinter. It includes buttons for digits, arithmetic operations, and a clear button (C). The calculator can perform basic arithmetic calculations and display the result in the entry widget.
